@@ -1,6 +1,6 @@
 # Full Stack E-Commerce Project using MERN
 
-Live Link - [Books Store](This is an E-Commerce Book Store using MERN stack)
+Live Link - [Books Store](https://books-store-moa1.vercel.app/)
 
 ## Available Scripts
 
