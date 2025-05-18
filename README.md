@@ -1,6 +1,6 @@
 # Full Stack E-Commerce Project using MERN
 
-Live Link - [Books Store]()
+Live Link - [Books Store](This is an E-Commerce Book Store using MERN stack)
 
 ## Available Scripts
 
